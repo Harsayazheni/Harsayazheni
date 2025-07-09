@@ -23,7 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsayazheni&" alt="harsayazheni" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsayazheni&show_icons=true&locale=en&layout=compact" alt="harsayazheni" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsayazheni" alt="harsayazheni" /></a></p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/harsa_yazheni?theme=dark&ext=activity" alt="LeetCode Stats" />
-</p>
+
 
